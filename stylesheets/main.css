@@ -2,3 +2,7 @@ body {
   background:red;
   font-family:arial;
 }
+
+h1, h2, p, li, a {
+  color:white;
+}
